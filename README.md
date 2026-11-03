@@ -2,6 +2,6 @@
 
 Моковые данные расположены в src/mocData
 
-Запуск pnpm install, pnpm approve-builds, pnpm run dev
+Запуск pnpm install, pnpm run dev
 
 Сборка и запуск  pnpm run build, pnpm run preview
